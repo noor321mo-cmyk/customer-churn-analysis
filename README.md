@@ -102,6 +102,32 @@ Senior citizens show a higher churn rate than non-senior customers.
 5. **Create Targeted Senior Customer Programs**  
    Provide personalized support and retention offers for senior customers.
 
+## 📊 Key Visualizations
+
+### Overall Churn Distribution
+
+![Overall Churn](images/overall-churn.png)
+
+### Churn by Gender
+
+![Churn by Gender](images/churn-by-gender.png)
+
+### Churn by Senior Citizen
+
+![Churn by Senior Citizen](images/churn-by-senior-citizen.png)
+
+### Churn by Payment Method
+
+![Churn by Payment Method](images/churn-by-payment-method.png)
+
+### Service Analysis
+
+![Service Analysis](images/service-analysis.png)
+
+### Churn by Contract Type
+
+![Churn by Contract](images/churn-by-contract.png)
+
 ## 📈 Conclusion
 
 The analysis shows that **contract type, payment method, and customer tenure** are important factors associated with customer churn.
